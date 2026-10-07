@@ -1,8 +1,34 @@
-### Hi, I'm Talha 👋
+# Hi, I'm Talha 👋
 
-Software Engineer at **Careem**, working mostly on backend systems with some frontend work mixed in. I like pulling apart distributed systems problems — message delivery, caching, rate limiting — and rebuilding them from scratch to understand why they're built the way they are.
+I'm a Software Engineer with 5 years of experience building and operating backend systems at scale.
 
-**Stack:** Java · Spring Boot · TypeScript · Node.js · PostgreSQL · Redis · WebSocket
+Currently at **Careem**, working primarily with Java/Kotlin on production systems serving millions of users across multiple markets. My work has involved backend services, distributed systems, event-driven architectures, and infrastructure.
+
+### Experience & Skills
+
+**Languages:** Java · Kotlin · TypeScript
+
+**Backend:** Spring Boot · REST APIs · Microservices · JPA/Hibernate
+
+**Distributed Systems:** Kafka · Messaging · Event-driven systems · Caching · Fault tolerance · Concurrency
+
+**Data:** MySQL · SQL · Relational databases
+
+**Cloud & Infrastructure:** AWS · Kubernetes · CI/CD
+
+**Engineering:** System Design · Testing · Observability · Monitoring · Distributed tracing · Reliability
+
+---
+
+## What I've Worked On
+
+- Built and operated Java/Kotlin backend services in production at scale
+- Designed event-driven data pipelines processing **2M+ records daily**
+- Worked on compliance and regulatory systems that reduced processes from days to minutes
+- Built automation that significantly reduced manual operational work
+- Worked on migrating production services to Kubernetes
+- Contributed to large-scale CI/CD and repository migrations across engineering teams
+- Worked with Kafka, SQS, Trino, relational databases, and cloud infrastructure
 
 ---
 
